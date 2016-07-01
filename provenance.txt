@@ -1,0 +1,40 @@
+Template info:
+
+Group: jackietreehornpublishing
+Name: treehorn-springboot-monitored-microservice
+Version 1.0.0-SNAPSHOT
+
+Backing GitHub repo:
+Owner: jackietreehornpublishing
+Repo: treehorn-simple-boot-monitored-microservice
+Branch: master
+Path (within repo): 
+sha: 9b93c53368252ed7d67ff04eabfdad346d37dc20
+
+
+Parameter values (passed in on template invocation):
+description='null'
+package_name='com.jackie.service'
+team-id='T1KHULA3E'
+name='simple-monitored-service'
+template='treehorn-springboot-monitored-microservice'
+user-id='U1MEK88CC'
+docker-image-prefix='grant-docker-image'
+group_id='com.jackie.service'
+org='jackietreehornpublishing'
+version='0.0.1'
+artifact_id='simple-monitored-service'
+visibility='public'
+
+Computed parameter values (computed based on parameter values passed in):
+date_time='01 07 2016 '
+configuration_class_name='SimpleMonitoredServiceConfiguration'
+package_path='com/jackie/service'
+base_source_path='src/main/java'
+base_test_path='src/test/java'
+containerless_web_integration_test_name='SimpleMonitoredServiceOutOfContainerIntegrationTests'
+application_name='SimpleMonitoredService'
+application_class_name='SimpleMonitoredServiceApplication'
+startup_test_name='SimpleMonitoredServiceApplicationTests'
+web_integration_test_name='SimpleMonitoredServiceWebIntegrationTests'
+creation_date='Fri Jul 01 2016 15:28:11 GMT+0000 (UTC)'
